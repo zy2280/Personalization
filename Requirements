@@ -1,15 +1,10 @@
-Software: 
-1.Jupyter Notebook
-
-Packages:
-1.pandas
-2.numpy
-3.random
-4.scipy.sparse
-5.math
-6.sklearn.cross_validation
-7.time
-8.matplotlib.pyplot
-9.json
-10.operator
-11.scipy.spatial.distance
+ipykernel==4.6.1
+ipython==6.1.0
+ipython-genutils==0.2.0
+jupyter-client==5.1.0
+jupyter-core==4.3.0
+matplotlib==2.0.2
+numpy==1.13.1
+pandas==0.20.3
+scipy==0.19.1
+sklearn==0.0
