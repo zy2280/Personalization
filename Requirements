@@ -1,0 +1,15 @@
+Software: 
+1.Jupyter Notebook
+
+Packages:
+1.pandas
+2.numpy
+3.random
+4.scipy.sparse
+5.math
+6.sklearn.cross_validation
+7.time
+8.matplotlib.pyplot
+9.json
+10.operator
+11.scipy.spatial.distance
